@@ -1,0 +1,45 @@
+﻿using System;
+
+namespace SDG.Unturned
+{
+	public enum EBuild
+	{
+		FORTIFICATION,
+		BARRICADE,
+		DOOR,
+		GATE,
+		BED,
+		LADDER,
+		STORAGE,
+		FARM,
+		TORCH,
+		CAMPFIRE,
+		SPIKE,
+		WIRE,
+		GENERATOR,
+		SPOT,
+		SAFEZONE,
+		FREEFORM,
+		SIGN,
+		VEHICLE,
+		CLAIM,
+		BEACON,
+		STORAGE_WALL,
+		BARREL_RAIN,
+		OIL,
+		CAGE,
+		SHUTTER,
+		TANK,
+		CHARGE,
+		SENTRY,
+		OVEN,
+		LIBRARY,
+		OXYGENATOR,
+		GLASS,
+		NOTE,
+		HATCH,
+		MANNEQUIN,
+		STEREO,
+		SIGN_WALL
+	}
+}
